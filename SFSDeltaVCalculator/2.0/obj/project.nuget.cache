@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NR6dSRvaozspGaNFCfDwExb0mJBciNi1WhXVtJ5GUwMZTvHWMr6PclM5rX6fb+pc67TPAYZHwxX2kX+8FxavZQ==",
+  "success": true,
+  "projectFilePath": "/Users/home/Documents/C# Scripts/SFSDeltaVCalculator/SFSDeltaVCalculator.csproj",
+  "expectedPackageFiles": [
+    "/Users/home/.nuget/packages/microsoft.netcore.app.host.win-x64/5.0.8/microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

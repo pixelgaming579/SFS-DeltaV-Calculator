@@ -1,0 +1,16 @@
+/Users/home/Documents/C# Scripts/SFSDeltaVCalculator/bin/Release/net5.0/osx-x64/SFSDeltaVCalculator
+/Users/home/Documents/C# Scripts/SFSDeltaVCalculator/bin/Release/net5.0/osx-x64/SFSDeltaVCalculator.deps.json
+/Users/home/Documents/C# Scripts/SFSDeltaVCalculator/bin/Release/net5.0/osx-x64/SFSDeltaVCalculator.runtimeconfig.json
+/Users/home/Documents/C# Scripts/SFSDeltaVCalculator/bin/Release/net5.0/osx-x64/SFSDeltaVCalculator.runtimeconfig.dev.json
+/Users/home/Documents/C# Scripts/SFSDeltaVCalculator/bin/Release/net5.0/osx-x64/SFSDeltaVCalculator.dll
+/Users/home/Documents/C# Scripts/SFSDeltaVCalculator/bin/Release/net5.0/osx-x64/ref/SFSDeltaVCalculator.dll
+/Users/home/Documents/C# Scripts/SFSDeltaVCalculator/bin/Release/net5.0/osx-x64/SFSDeltaVCalculator.pdb
+/Users/home/Documents/C# Scripts/SFSDeltaVCalculator/obj/Release/net5.0/osx-x64/SFSDeltaVCalculator.csproj.AssemblyReference.cache
+/Users/home/Documents/C# Scripts/SFSDeltaVCalculator/obj/Release/net5.0/osx-x64/SFSDeltaVCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Documents/C# Scripts/SFSDeltaVCalculator/obj/Release/net5.0/osx-x64/SFSDeltaVCalculator.AssemblyInfoInputs.cache
+/Users/home/Documents/C# Scripts/SFSDeltaVCalculator/obj/Release/net5.0/osx-x64/SFSDeltaVCalculator.AssemblyInfo.cs
+/Users/home/Documents/C# Scripts/SFSDeltaVCalculator/obj/Release/net5.0/osx-x64/SFSDeltaVCalculator.csproj.CoreCompileInputs.cache
+/Users/home/Documents/C# Scripts/SFSDeltaVCalculator/obj/Release/net5.0/osx-x64/SFSDeltaVCalculator.dll
+/Users/home/Documents/C# Scripts/SFSDeltaVCalculator/obj/Release/net5.0/osx-x64/ref/SFSDeltaVCalculator.dll
+/Users/home/Documents/C# Scripts/SFSDeltaVCalculator/obj/Release/net5.0/osx-x64/SFSDeltaVCalculator.pdb
+/Users/home/Documents/C# Scripts/SFSDeltaVCalculator/obj/Release/net5.0/osx-x64/SFSDeltaVCalculator.genruntimeconfig.cache

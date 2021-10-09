@@ -1,0 +1,2 @@
+/Users/home/Documents/C# Scripts/SFSDeltaVCalculator/bin/Release/net5.0/osx-x64/publish/SFSDeltaVCalculator.pdb
+/Users/home/Documents/C# Scripts/SFSDeltaVCalculator/bin/Release/net5.0/osx-x64/publish/SFSDeltaVCalculator
